@@ -8,19 +8,18 @@
 
 <span style="font-size:1.2em; font-weight:bold; font-family:黑体;">🧑‍💼 个人信息</span>
 <ul style="font-size:1.1em;">
-  <li>姓名：XXX</li>
+  <li>姓名：钱浩勇</li>
   <li>电话：XXX</li>
-  <li>邮箱：XXX</li>
+  <li>邮箱：qianhy17@163.com</li>
 </ul>
 
 <span style="font-size:1.2em; font-weight:bold; font-family:黑体;">🏫 教育经历</span>
 <ul style="font-size:1.1em;">
   <li>
     <b>学校名称1</b><br>
-    专业：XXX<br>
-    学历：本科/硕士/博士<br>
-    时间：XXXX年X月 - XXXX年X月<br>
-    主要课程/成绩：可选
+    专业：土木工程<br>
+    学历：本科<br>
+    时间：2012年9月 - 2016年6月<br>
   </li>
   <li>
     <b>学校名称2（如有）</b><br>
