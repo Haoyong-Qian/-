@@ -1,7 +1,7 @@
 <!-- 教育经历简历模板，美化版 -->
 
 <div align="center">
-  <span style="font-size:2em; font-weight:bold; font-family:黑体;">🎓 教育经历简历</span>
+  <span style="font-size:3em; font-weight:bold; font-family:黑体;">🎓 教育经历简历</span>
 </div>
 
 <br>
@@ -16,7 +16,7 @@
 <span style="font-size:1.2em; font-weight:bold; font-family:黑体;">🏫 教育经历</span>
 <ul style="font-size:1.1em;">
   <li>
-    <b>学校名称1</b><br>
+    <b>中南大学</b><br>
     专业：土木工程<br>
     学历：本科<br>
     时间：2012年9月 - 2016年6月<br>
