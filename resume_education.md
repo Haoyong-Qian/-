@@ -8,8 +8,8 @@
 
 <span style="font-size:1.2em; font-weight:bold; font-family:黑体;">🧑‍💼 个人信息</span>
 <ul style="font-size:1.1em;">
-  <li>姓名：钱浩勇
-  <li>邮箱：qianhy17@163.com</li>
+  <li>姓名：钱浩勇<li>
+  <li>邮箱：<span style="font-family:time new romans;">qianhy17@163.com</li>
 </ul>
 
 <span style="font-size:1.2em; font-weight:bold; font-family:黑体;">🏫 教育经历</span>
